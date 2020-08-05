@@ -1,2 +1,2 @@
 # Klapityu.github.io
-Demo page
+Keltető hömérséklet távoli elérés
